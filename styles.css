@@ -13,7 +13,7 @@
     --verde-limao: #DAFF01;
 }
 
-.bg-black {
+.bg-black, html {
     background-color: var(--black);
 }
 
